@@ -1,1 +1,1 @@
-It is a square h=game that helps us increase ourinteraction with javascript.
+It is a square game that helps us increase ourinteraction with javascript.
